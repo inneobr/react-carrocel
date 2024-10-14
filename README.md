@@ -1,6 +1,7 @@
 # PROJETO REACT NATIVE CARROCEL
 
-Carrocel react native
+Carrocel react native com background dinamico gerado pela referencia da cor de cada imagem, 
+possui uma transição de imagem que lembra uma iluminação direcionada do top como uma lampada.
 <div style="display: flex; flex-direction: row; gap: 15">
   <img src="https://github.com/user-attachments/assets/2e7a4915-46f3-4ad6-9aa1-a2abf915b10a">  
   <img src="https://github.com/user-attachments/assets/f690a8ae-3de1-43e3-8914-40f18921dce5">
