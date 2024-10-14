@@ -6,7 +6,5 @@ Carrocel react native
   
   <img src="https://github.com/user-attachments/assets/f690a8ae-3de1-43e3-8914-40f18921dce5">
 
-  <img src="https://github.com/user-attachments/assets/f690a8ae-3de1-43e3-8914-40f18921dce5">
+  <img src="https://github.com/user-attachments/assets/dcfa116b-bdd0-49b6-8e4b-7b5baf81face">
 </div>
-
-![image](https://github.com/user-attachments/assets/dcfa116b-bdd0-49b6-8e4b-7b5baf81face)
